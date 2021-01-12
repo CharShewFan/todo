@@ -1,16 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="93d63b49-2bea-4809-a4a8-cea5e8b696c3" name="Default Changelist" comment="" />
+    <list default="true" id="93d63b49-2bea-4809-a4a8-cea5e8b696c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/todolist/src/components/LeftSideBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/src/views/ListView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mx8OFA5I2u5sNz1OEIvLpscnRQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,11 +66,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610423847972</updated>
-      <workItem from="1610423849086" duration="1217000" />
+      <workItem from="1610423849086" duration="4709000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2432" y="-137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610436374828">
+      <screen x="1440" y="-515" width="2560" height="1415" />
+    </state>
+    <state x="2432" y="-137" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.-515.2560.1415/0.25.1440.801@1440.-515.2560.1415" timestamp="1610436374828" />
   </component>
 </project>
